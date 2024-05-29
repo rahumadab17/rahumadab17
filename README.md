@@ -11,7 +11,8 @@ No cuento con experiencias previas relacionadas al mundo del desarrollo de softw
 ### Skills:
 * 💻 HTML, CSS, JS
 * 🐘 SQL
-* 🖥 NPM, NODEJS
+* 🖥  NPM, NODEJS
+* 📚 INGLÉS AVANZADO C2
 
 Me pueden contactar a través de mi correo y redes sociales: 
 📩 rahumadab17@gmail.com 
