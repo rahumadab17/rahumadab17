@@ -1,6 +1,6 @@
 # Hola 👋, mi nombre es Rodrigo!
 ## Desarrollador Fullstack Javascript
-Soy Ingeniero en Expediciones y Ecoturismo de profesión, pero llevo más de un año introduciendome en este increíble mundo del desarrollo web 🔥
+Soy Ingeniero en Expediciones y Ecoturismo con especialidad Gestión de Modelos Hoteleros de profesión, sin embargo llevo más de un año introduciendome en este increíble mundo del desarrollo web y de la experiencia de usuario 🔥
 
 Soy de Santiago de Chile 🇨🇱 y me dedico actualmente al rubro hotelero como parte del equipo de reservas de los productos de la conocida marca andBeyond.
 
