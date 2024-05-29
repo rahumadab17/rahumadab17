@@ -8,7 +8,9 @@ Mi formación en el mundo IT se compone de un curso básico de UX/UI y actualmen
 
 No cuento con experiencias previas relacionadas al mundo del desarrollo de software, pero si algo me ha enseñado el rubro hotelero es el trabajar en equipo, habilidades blandas y comunicativas.
 
-Habilidades: JS / HTML / CSS / NODEJS / NPM / SQL
+* SKILLS:
+
+JS / HTML / CSS / NODEJS / NPM / SQL
 
 Me pueden contactar a través de mi correo y redes sociales: 
 📩 rahumadab17@gmail.com 
