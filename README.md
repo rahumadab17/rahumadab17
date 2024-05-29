@@ -8,13 +8,12 @@ Mi formación en el mundo IT se compone de un curso básico de UX/UI y actualmen
 
 No cuento con experiencias previas relacionadas al mundo del desarrollo de software, pero si algo me ha enseñado el rubro hotelero es el trabajar en equipo, habilidades blandas y comunicativas.
 
+Habilidades: JS / HTML / CSS / NODEJS / NPM / SQL
+
 Me pueden contactar a través de mi correo y redes sociales: 
 📩 rahumadab17@gmail.com 
 
-
-Habilidades: JS / HTML / CSS / NODEJS / NPM / SQL
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahumadab17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rodrigo-ahumada-brito-36a041183//)  
 
 
 
