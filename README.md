@@ -1,4 +1,4 @@
-### Hola 👋, mi nombre es Rodrigo!
+# Hola 👋, mi nombre es Rodrigo!
 #### Soy Desarrollador Fullstack Javascript
 Soy Ingeniero en Expediciones y Ecoturismo de profesión, pero llevo más de un año introduciendome en este increíble mundo del desarrollo de software 🔥
 
@@ -12,8 +12,6 @@ No cuento con experiencias previas relacionadas al mundo del desarrollo de softw
 * 💻 HTML, CSS, JS
 * 🐘 SQL
 * 🖥 NPM, NODEJS
-
-JS / HTML / CSS / NODEJS / NPM / SQL
 
 Me pueden contactar a través de mi correo y redes sociales: 
 📩 rahumadab17@gmail.com 
