@@ -8,7 +8,10 @@ Mi formación en el mundo IT se compone de un curso básico de UX/UI y actualmen
 
 No cuento con experiencias previas relacionadas al mundo del desarrollo de software, pero si algo me ha enseñado el rubro hotelero es el trabajar en equipo, habilidades blandas y comunicativas.
 
-* SKILLS:
+## SKILLS:
+* 💻 HTML, CSS, JS
+* 🐘 SQL
+* 🖥 NPM, NODEJS
 
 JS / HTML / CSS / NODEJS / NPM / SQL
 
