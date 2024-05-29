@@ -14,7 +14,7 @@ No cuento con experiencias previas relacionadas al mundo del desarrollo de softw
 * 🖥  NPM, NODEJS
 * 📚 INGLÉS AVANZADO C2
 
-Me pueden contactar a través de mi correo y redes sociales: 
+Me pueden contactar a través de mi correo y redes: 
 📩 rahumadab17@gmail.com 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahumadab17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rodrigo-ahumada-brito-36a041183//)  
