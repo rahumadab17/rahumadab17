@@ -1,4 +1,4 @@
-# Hola 👋, mi nombre es Rodrigo!
+### Hola 👋, mi nombre es Rodrigo!
 #### Soy Desarrollador Fullstack Javascript
 Soy Ingeniero en Expediciones y Ecoturismo de profesión, pero llevo más de un año introduciendome en este increíble mundo del desarrollo de software 🔥
 
@@ -8,7 +8,7 @@ Mi formación en el mundo IT se compone de un curso básico de UX/UI y actualmen
 
 No cuento con experiencias previas relacionadas al mundo del desarrollo de software, pero si algo me ha enseñado el rubro hotelero es el trabajar en equipo, habilidades blandas y comunicativas.
 
-## SKILLS:
+### SKILLS:
 * 💻 HTML, CSS, JS
 * 🐘 SQL
 * 🖥 NPM, NODEJS
