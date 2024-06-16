@@ -4,7 +4,7 @@ Soy Ingeniero en Expediciones y Ecoturismo con especialidad Gestión de Modelos 
 
 Soy de Santiago de Chile 🇨🇱 y me dedico actualmente al rubro hotelero como parte del equipo de reservas de los productos de la conocida marca andBeyond.
 
-Mi formación en el mundo IT se compone de un curso básico de UX/UI y actualmente me encuentro capacitándome como Desarrollador Fullstack Javascript Trainee en DesafioLatam.
+Mi formación en el mundo IT se compone de un curso UX/UI y actualmente me encuentro estudiando para ser Desarrollador Fullstack Javascript Trainee en DesafioLatam.
 
 No cuento con experiencias previas relacionadas al mundo del desarrollo de software, pero si algo me ha enseñado el rubro hotelero es el trabajar en equipo, habilidades blandas y comunicativas.
 
